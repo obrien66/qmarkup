@@ -2,7 +2,6 @@
 
 ```
 npm install qmarkup
-
 ```
 
 ```js
