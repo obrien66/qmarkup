@@ -16,8 +16,6 @@ function Qmarkup(tag){
 					ids += flags[i].slice(1) + " "
 				}
 			}
-			// ids = ids.slice(ids.length - 2)
-			// cls = cls.slice(cls.length - 2)
 		}
 		else if (typeof flags == "string") {
 			if (flags[0] == ".") {
