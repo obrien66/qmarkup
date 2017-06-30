@@ -1,0 +1,24 @@
+{
+  "name": "qmarkup",
+  "version": "1.0.0",
+  "description": "Functions to write html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obrien66/qmarkup.git"
+  },
+  "keywords": [
+    "html",
+    "markup",
+    "quick"
+  ],
+  "author": "Nicholas O'Brien <nicholas.obrien@ucc.on.ca> (http://obrien.tech)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obrien66/qmarkup/issues"
+  },
+  "homepage": "https://github.com/obrien66/qmarkup#readme"
+}
