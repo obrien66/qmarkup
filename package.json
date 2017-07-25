@@ -1,6 +1,6 @@
 {
   "name": "qmarkup",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Functions to write html",
   "main": "index.js",
   "scripts": {
