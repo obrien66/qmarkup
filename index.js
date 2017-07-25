@@ -14,7 +14,7 @@ function Qmarkup(tag){
 		else if (typeof flags == "string") {
 			modifiers[flags[0]] += flags.slice(1)
 		}
-		return `<${tag} id="${ids}" class="${cls}">${text}</${tag}>`
+		return `<${tag} id="${modifiers["#"]}" class="${modifiers["."]}">${text}</${tag}>`
 	}
 }
 module.exports = function(tag){ return new Qmarkup(tag)}
